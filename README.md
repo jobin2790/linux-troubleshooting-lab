@@ -1,7 +1,5 @@
 # Linux Troubleshooting Lab
 
-This project demonstrates Linux troubleshooting skills commonly used by Cloud Support Engineers.
-
 ## Scenarios
 
 1. File Permission Issue
