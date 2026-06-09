@@ -1,0 +1,20 @@
+Day 62 Notes
+
+Commands Learned:
+- whoami
+- id
+- groups
+- who
+- logname
+- sudo
+
+Important Concepts:
+- User
+- UID
+- GID
+- Groups
+- Root User
+- sudo
+
+Most Important Learning:
+Linux uses users and groups to control access. The sudo command allows temporary administrator access.
