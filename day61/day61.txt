@@ -1,0 +1,16 @@
+Day 61 Notes
+
+Commands Learned:
+- ssh
+- ssh-keygen
+- cat
+- ls -la
+
+Important Concepts:
+- SSH
+- Public Key
+- Private Key
+- Remote Access
+
+Most Important Learning:
+SSH allows secure remote access to Linux servers using encryption and key-based authentication.
