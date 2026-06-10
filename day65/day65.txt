@@ -1,0 +1,19 @@
+Day 65 Notes
+
+Commands Learned:
+- ps
+- ps aux
+- top
+- pgrep
+- kill
+- uptime
+
+Important Concepts:
+- Process
+- PID
+- Running Process
+- Process Monitoring
+- Process Termination
+
+Most Important Learning:
+Linux administrators use process management commands to monitor system activity and stop problematic processes.
