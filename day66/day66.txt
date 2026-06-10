@@ -1,0 +1,19 @@
+Day 66 Notes
+
+Commands Learned:
+- ping
+- nslookup
+- curl
+- hostname
+- netstat
+- lsof
+
+Important Concepts:
+- DNS Resolution
+- IP Address
+- Hostname
+- Routing Table
+- Network Connectivity
+
+Most Important Learning:
+Linux networking tools help troubleshoot DNS issues, connectivity problems, and network routes.
