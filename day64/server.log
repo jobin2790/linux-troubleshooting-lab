@@ -1,0 +1,7 @@
+INFO Server started
+INFO User login successful
+ERROR Database connection failed
+INFO User logout
+ERROR Disk space low
+WARNING High memory usage
+INFO Backup completed

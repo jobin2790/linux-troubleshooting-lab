@@ -1,0 +1,23 @@
+Day 64 Notes
+
+Commands Learned:
+- find
+- grep
+- wc
+- head
+- tail
+
+Important Concepts:
+- File Search
+- Pattern Matching
+- Log Analysis
+- Line Count
+- Text Processing
+
+Practical Examples:
+- grep ERROR server.log
+- find . -name "*.log"
+- wc -l server.log
+
+Most Important Learning:
+Linux provides powerful text-processing tools that help administrators quickly analyze logs and troubleshoot issues.
