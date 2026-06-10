@@ -1,0 +1,6 @@
+INFO Application started
+INFO User login successful
+ERROR Database connection failed
+INFO Retry connection
+ERROR Timeout while connecting
+INFO Service restored

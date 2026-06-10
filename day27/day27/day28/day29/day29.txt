@@ -1,0 +1,17 @@
+Day 29 Notes
+
+Commands Learned:
+- chmod
+- ls -l
+- stat
+- whoami
+- id
+
+Important Concepts:
+- Read Permission
+- Write Permission
+- Execute Permission
+- File Ownership
+
+Most Important Learning:
+Linux permissions control who can read, write, and execute files.

@@ -1,0 +1,19 @@
+Day 33 Notes
+
+Commands Learned:
+- brew list
+- brew search
+- brew info
+- which
+- git --version
+- python3 --version
+- ssh -V
+
+Important Concepts:
+- Package Management
+- Software Verification
+- Installed Tools
+- Version Checking
+
+Most Important Learning:
+Before troubleshooting or installing software, verify whether the required tool already exists and check its version.

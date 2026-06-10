@@ -1,0 +1,18 @@
+Day 54 Notes
+
+Commands Learned:
+- pwd
+- ls -la
+- df -h
+- du -sh
+- wc -l
+
+Important Concepts:
+- Disk Usage
+- File Systems
+- Storage Monitoring
+- Capacity Planning
+- Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers monitor disk usage and storage capacity to prevent application failures caused by insufficient disk space.

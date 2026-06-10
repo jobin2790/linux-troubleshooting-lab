@@ -1,0 +1,18 @@
+Day 34 Notes
+
+Commands Learned:
+- ps aux
+- grep
+- top -l 1
+- wc -l
+- echo $$
+- ps -p
+
+Important Concepts:
+- Running Processes
+- Process Monitoring
+- Process IDs (PID)
+- System Troubleshooting
+
+Most Important Learning:
+Cloud support engineers constantly inspect running processes to identify failures, resource issues, and service outages.

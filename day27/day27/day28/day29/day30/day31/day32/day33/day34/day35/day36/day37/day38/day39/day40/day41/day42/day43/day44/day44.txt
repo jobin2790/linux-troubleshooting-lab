@@ -1,0 +1,19 @@
+Day 44 Notes
+
+Commands Learned:
+- ps aux
+- grep
+- top -l 1
+- uptime
+- vm_stat
+- wc -l
+
+Important Concepts:
+- Process Monitoring
+- CPU Usage
+- Memory Usage
+- System Load
+- Performance Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers monitor CPU, memory, and running processes to identify performance issues and application slowdowns.

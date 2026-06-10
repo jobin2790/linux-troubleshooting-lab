@@ -1,0 +1,17 @@
+Day 41 Notes
+
+Commands Learned:
+- chmod
+- ls -l
+- touch
+
+Important Concepts:
+- File Permissions
+- Read (r)
+- Write (w)
+- Execute (x)
+- Linux Security
+
+Most Important Learning:
+Linux permissions control who can read, modify, and execute files.
+

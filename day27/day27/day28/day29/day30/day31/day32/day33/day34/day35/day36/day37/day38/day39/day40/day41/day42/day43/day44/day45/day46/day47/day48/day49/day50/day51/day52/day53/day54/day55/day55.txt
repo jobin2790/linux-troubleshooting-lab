@@ -1,0 +1,20 @@
+Day 55 Notes
+
+Commands Learned:
+- chmod
+- ls -l
+- ls -ld
+- whoami
+- wc -l
+
+Important Concepts:
+- File Permissions
+- Read (r)
+- Write (w)
+- Execute (x)
+- Ownership
+- Security
+
+Most Important Learning:
+Cloud Support Engineers frequently check and modify file permissions when applications cannot access files, logs, or configuration directories.
+

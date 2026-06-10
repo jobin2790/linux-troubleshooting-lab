@@ -1,0 +1,18 @@
+Day 53 Notes
+
+Commands Learned:
+- ps aux
+- grep
+- launchctl list
+- which
+- wc -l
+
+Important Concepts:
+- Services
+- Daemons
+- Background Processes
+- Service Monitoring
+- Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers verify whether services are running, stopped, or failing when troubleshooting system and application issues.

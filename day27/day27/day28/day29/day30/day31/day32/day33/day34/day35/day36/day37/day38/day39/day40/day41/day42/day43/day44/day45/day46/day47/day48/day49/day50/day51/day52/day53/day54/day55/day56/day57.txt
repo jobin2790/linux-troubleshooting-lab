@@ -1,0 +1,20 @@
+Day 57 Notes
+
+Commands Learned:
+- launchctl list
+- grep
+- which ssh
+- ssh -V
+- ps aux
+- wc -l
+- uname -a
+
+Important Concepts:
+- Services
+- Daemons
+- SSH
+- Service Status
+- Process Monitoring
+
+Most Important Learning:
+Cloud Support Engineers verify services are installed, running, and accessible when troubleshooting application and infrastructure issues.

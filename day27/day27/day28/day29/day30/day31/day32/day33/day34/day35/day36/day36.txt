@@ -1,0 +1,17 @@
+Day 36 Notes
+
+Commands Learned:
+- tar -cvf
+- tar -tvf
+- tar -czvf
+- tar -xzvf
+- ls -lh
+
+Important Concepts:
+- Backups
+- Archives
+- Compression
+- Restore Operations
+
+Most Important Learning:
+Cloud and Linux engineers create backups before making system changes and restore them when needed.

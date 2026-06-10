@@ -1,0 +1,15 @@
+Day 28 Notes
+
+Commands Learned:
+- find
+- which
+- grep
+
+Important Concepts:
+- File Searching
+- Command Locations
+- Pattern Matching
+- System Navigation
+
+Most Important Learning:
+The find command locates files and directories, while grep searches for text inside files.

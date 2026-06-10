@@ -1,0 +1,18 @@
+Day 32 Notes
+
+Commands Learned:
+- du -sh .
+- du -sh *
+- df -h
+- ls -lh
+- ls -lhS
+
+Important Concepts:
+- Disk Usage
+- Storage Analysis
+- File Sizes
+- Capacity Planning
+
+Most Important Learning:
+Disk usage commands help identify large files and prevent servers from running out of storage.
+

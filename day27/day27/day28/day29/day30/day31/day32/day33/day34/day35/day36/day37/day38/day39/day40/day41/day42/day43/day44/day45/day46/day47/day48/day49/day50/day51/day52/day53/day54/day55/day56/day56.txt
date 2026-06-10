@@ -1,0 +1,20 @@
+Day 56 Notes
+
+Commands Learned:
+- ls -l
+- ls -ld
+- id
+- groups
+- stat
+- whoami
+- wc -l
+
+Important Concepts:
+- File Ownership
+- User Ownership
+- Group Ownership
+- Permissions
+- Access Control
+
+Most Important Learning:
+Cloud Support Engineers frequently verify file and directory ownership when applications fail because they cannot access logs, configuration files, or storage locations.

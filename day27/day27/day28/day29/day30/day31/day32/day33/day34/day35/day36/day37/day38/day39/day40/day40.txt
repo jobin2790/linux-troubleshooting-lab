@@ -1,0 +1,18 @@
+Day 40 Notes
+
+Commands Learned:
+- ping
+- ifconfig
+- curl
+- curl -I
+- netstat
+- nslookup
+
+Important Concepts:
+- Networking
+- DNS
+- IP Addresses
+- Connectivity Testing
+
+Most Important Learning:
+Cloud Support Engineers use networking tools to diagnose connectivity, DNS, and service availability issues.

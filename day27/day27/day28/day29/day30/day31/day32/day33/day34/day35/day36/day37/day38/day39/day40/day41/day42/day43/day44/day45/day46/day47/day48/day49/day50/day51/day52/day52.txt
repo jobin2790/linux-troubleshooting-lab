@@ -1,0 +1,18 @@
+Day 52 Notes
+
+Commands Learned:
+- netstat -an
+- lsof -i
+- lsof -i :80
+- lsof -i :443
+- grep LISTEN
+
+Important Concepts:
+- Open Ports
+- Network Connections
+- Listening Services
+- TCP Connections
+- Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers check open ports and listening services to troubleshoot application connectivity issues.

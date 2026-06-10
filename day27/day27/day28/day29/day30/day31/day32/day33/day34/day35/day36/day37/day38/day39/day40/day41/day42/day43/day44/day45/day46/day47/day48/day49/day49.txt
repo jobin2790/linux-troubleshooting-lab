@@ -1,0 +1,18 @@
+Day 49 Notes
+
+Commands Learned:
+- sort
+- uniq
+- cut
+- tr
+- wc -l
+
+Important Concepts:
+- Text Processing
+- Data Extraction
+- CSV Files
+- Data Cleanup
+- Log Analysis
+
+Most Important Learning:
+Cloud Support Engineers use sort, uniq, cut, and tr to process logs, analyze data, and extract useful information from files.

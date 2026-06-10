@@ -1,0 +1,20 @@
+Day 45 Notes
+
+Commands Learned:
+- whoami
+- id
+- groups
+- who
+- users
+- dscl
+- wc -w
+
+Important Concepts:
+- Users
+- Groups
+- User IDs (UID)
+- Group IDs (GID)
+- Access Control
+
+Most Important Learning:
+Linux uses users and groups to control access to files, applications, and system resources.

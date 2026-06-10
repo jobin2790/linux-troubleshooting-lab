@@ -1,0 +1,16 @@
+Day 43 Notes
+
+Commands Learned:
+- df -h
+- du -sh
+- touch
+- wc -l
+
+Important Concepts:
+- Disk Usage
+- Filesystem Capacity
+- Storage Monitoring
+- Capacity Planning
+
+Most Important Learning:
+Cloud Support Engineers monitor disk usage and storage capacity to prevent application and server failures.

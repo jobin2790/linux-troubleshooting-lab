@@ -1,0 +1,18 @@
+Day 58 Notes
+
+Commands Learned:
+- find
+- grep
+- cat
+- wc -l
+- ls -l
+
+Important Concepts:
+- Configuration Files
+- Log Files
+- Searching
+- Environment Variables
+- Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers frequently search configuration files and logs to identify incorrect settings and application issues.

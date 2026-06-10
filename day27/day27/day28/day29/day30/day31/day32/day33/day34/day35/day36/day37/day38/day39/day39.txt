@@ -1,0 +1,18 @@
+Day 39 Notes
+
+Commands Learned:
+- scp
+- cp
+- ls
+- cat
+- wc -l
+
+Important Concepts:
+- Secure Copy (SCP)
+- File Transfer
+- Uploading Files
+- Downloading Files
+
+Most Important Learning:
+SCP allows secure file transfers between Linux servers using SSH.
+

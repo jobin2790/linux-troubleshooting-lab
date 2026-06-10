@@ -1,0 +1,20 @@
+Day 59 Notes
+
+Commands Learned:
+- hostname
+- ifconfig
+- ping
+- traceroute
+- nslookup
+- netstat -rn
+- wc -l
+
+Important Concepts:
+- IP Addresses
+- DNS
+- Network Interfaces
+- Routing
+- Connectivity Testing
+
+Most Important Learning:
+Cloud Support Engineers use ping, traceroute, nslookup, and netstat to diagnose network connectivity, DNS, and routing issues.

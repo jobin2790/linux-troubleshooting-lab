@@ -1,0 +1,16 @@
+Day 42 Notes
+
+Commands Learned:
+- find
+- which
+- whereis
+- wc -l
+
+Important Concepts:
+- File Discovery
+- Command Locations
+- System Paths
+- Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers use find, which, and whereis to locate files, logs, and installed software during troubleshooting.

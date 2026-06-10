@@ -1,0 +1,17 @@
+Day 37 Notes
+
+Commands Learned:
+- log show
+- grep -i
+- ps aux
+- whoami
+- uptime
+
+Important Concepts:
+- System Logs
+- Error Detection
+- Warning Messages
+- Service Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers use system logs to investigate application failures, service issues, and unexpected system behavior.

@@ -1,0 +1,17 @@
+Day 47 Notes
+
+Commands Learned:
+- grep
+- head
+- tail
+- wc -l
+- cat
+
+Important Concepts:
+- Log Analysis
+- Error Detection
+- Warning Messages
+- Service Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers analyze logs using grep, head, and tail to quickly identify application failures and service issues.

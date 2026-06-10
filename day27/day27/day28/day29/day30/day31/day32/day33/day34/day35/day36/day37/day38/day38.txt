@@ -1,0 +1,18 @@
+Day 38 Notes
+
+Commands Learned:
+- ssh
+- ssh -V
+- ssh-keygen
+- ssh-add -l
+- cat ~/.ssh/id_rsa.pub
+
+Important Concepts:
+- SSH
+- Public Key
+- Private Key
+- Remote Access
+
+Most Important Learning:
+SSH allows secure remote access to Linux servers using public/private key authentication.
+

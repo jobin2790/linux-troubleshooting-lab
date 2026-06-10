@@ -1,0 +1,20 @@
+Day 50 Notes
+
+Commands Learned:
+- ps
+- ps aux
+- jobs
+- sleep &
+- kill
+- crontab -l
+- date
+
+Important Concepts:
+- Processes
+- Background Jobs
+- Process Management
+- Scheduled Tasks
+- Automation
+
+Most Important Learning:
+Cloud Support Engineers monitor, manage, stop, and troubleshoot processes running on Linux servers.

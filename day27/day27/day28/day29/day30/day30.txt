@@ -1,0 +1,16 @@
+Day 30 Notes
+
+Commands Learned:
+- grep
+- wc
+- grep -n
+- cat
+
+Important Concepts:
+- Log Files
+- Error Detection
+- Monitoring
+- Troubleshooting
+
+Most Important Learning:
+Cloud and Linux support engineers spend a lot of time reading logs to identify problems and outages.

@@ -1,0 +1,21 @@
+Day 51 Notes
+
+Commands Learned:
+- echo $USER
+- echo $HOME
+- echo $SHELL
+- echo $PATH
+- export
+- env
+- uname -a
+- hostname
+
+Important Concepts:
+- Environment Variables
+- System Information
+- PATH
+- Shell
+- Hostname
+
+Most Important Learning:
+Cloud Support Engineers use environment variables and system information to troubleshoot applications and server configurations.

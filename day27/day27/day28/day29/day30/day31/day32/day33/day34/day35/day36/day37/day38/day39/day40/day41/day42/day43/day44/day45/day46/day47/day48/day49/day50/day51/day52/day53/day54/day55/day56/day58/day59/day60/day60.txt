@@ -1,0 +1,20 @@
+Day 60 Notes
+
+Commands Learned:
+- uptime
+- top
+- vm_stat
+- sysctl
+- iostat
+- ps aux
+- wc -l
+
+Important Concepts:
+- CPU Usage
+- Memory Usage
+- Load Average
+- Disk I/O
+- Performance Monitoring
+
+Most Important Learning:
+Cloud Support Engineers monitor CPU, memory, disk activity, and system load to identify performance bottlenecks and troubleshoot slow applications.

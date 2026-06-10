@@ -1,0 +1,18 @@
+Day 48 Notes
+
+Commands Learned:
+- tar -cvf
+- tar -tvf
+- gzip
+- tar -xzf
+- wc -l
+
+Important Concepts:
+- Archiving
+- Compression
+- Backups
+- File Storage
+- Log Retention
+
+Most Important Learning:
+Cloud Support Engineers use tar and gzip to archive, compress, transfer, and back up logs and application data efficiently.

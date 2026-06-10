@@ -1,0 +1,17 @@
+Day 27 Notes
+
+Commands Learned:
+- grep
+- sort
+- wc
+- cut
+
+Important Concepts:
+- Searching Text
+- Filtering Data
+- Sorting Data
+- Counting Lines
+- Extracting Fields
+
+Most Important Learning:
+Linux text-processing tools can quickly search, filter, sort, and analyze file contents.

@@ -1,0 +1,16 @@
+Day 35 Notes
+
+Commands Learned:
+- grep
+- grep -n
+- cat
+- wc -l
+
+Important Concepts:
+- Log Analysis
+- Error Detection
+- Warning Messages
+- Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers analyze logs to identify application failures, outages, and performance issues.

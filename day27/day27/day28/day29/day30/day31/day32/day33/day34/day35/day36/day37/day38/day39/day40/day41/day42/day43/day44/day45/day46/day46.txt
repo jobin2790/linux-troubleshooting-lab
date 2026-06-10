@@ -1,0 +1,20 @@
+Day 46 Notes
+
+Commands Learned:
+- which brew
+- brew --version
+- brew list
+- brew search
+- brew info
+- git --version
+- wc -l
+
+Important Concepts:
+- Package Management
+- Software Installation
+- Software Versions
+- Package Repositories
+- Troubleshooting
+
+Most Important Learning:
+Cloud Support Engineers verify installed software, package versions, and dependencies when troubleshooting application issues.

@@ -1,0 +1,15 @@
+Day 31 Notes
+
+Commands Learned:
+- chmod +x
+- ./script.sh
+- hostname
+- date
+
+Important Concepts:
+- Bash Script
+- Automation
+- Executable Files
+
+Most Important Learning:
+A Bash script automates multiple Linux commands into a single executable file.
