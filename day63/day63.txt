@@ -1,0 +1,21 @@
+Day 63 Notes
+
+Commands Learned:
+- ls -l
+- chmod
+- whoami
+- id
+
+Important Concepts:
+- File Owner
+- Group Owner
+- Read Permission (r)
+- Write Permission (w)
+- Execute Permission (x)
+
+Practical Examples:
+- chmod 755 file1.txt
+- chmod 644 file1.txt
+
+Most Important Learning:
+Linux permissions determine who can read, write, and execute files.
