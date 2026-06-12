@@ -1,0 +1,19 @@
+Day 26 Notes
+
+Commands Learned:
+- ifconfig
+- ifconfig | grep inet
+- netstat -rn
+- route -n get default
+- nslookup google.com
+- ping -c 4 google.com
+
+Important Concepts:
+- IP Address
+- Gateway
+- DNS
+- Routing
+- Network Connectivity
+
+Most Important Learning:
+DNS converts names into IP addresses and the default gateway connects my device to other networks.

@@ -1,0 +1,28 @@
+Day 2
+
+commands learned:
+
+
+
+- cp
+- mv
+- rm
+- rmdir
+- cd
+- pwd
+- mkdir
+
+
+
+Important learnings:
+
+- Linux is strict with syntax 
+- folders are created in current directory
+- cd changes location
+- pwd shows current location
+
+Mistakes :
+
+- forgot spaces
+- used wrong file names
+- tried invalid commands

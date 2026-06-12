@@ -1,0 +1,13 @@
+Day 7 Notes
+
+Commands learned:
+- ssh
+- ssh-keygen
+
+Important concepts:
+- SSH
+- remote server access
+- public/private keys
+
+Most important learning:
+- SSH lets us control remote Linux servers securely

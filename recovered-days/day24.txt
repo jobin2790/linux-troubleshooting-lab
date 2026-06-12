@@ -1,0 +1,18 @@
+Day 24 Notes
+
+Commands Learned:
+- uptime
+- vm_stat
+- ps aux | sort -nrk 3
+- ps aux | sort -nrk 4
+- top
+- ps aux | wc -l
+
+Important Concepts:
+- CPU Usage
+- Memory Usage
+- System Load
+- Process Monitoring
+
+Most Important Learning:
+System monitoring helps identify resource bottlenecks and troubleshoot performance issues.

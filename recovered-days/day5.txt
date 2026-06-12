@@ -1,0 +1,19 @@
+Day 5 Notes 
+
+ Commands Learned:
+
+- ifconfig
+- ping
+- nslookup
+- traceroute
+- netstat
+
+Important concepts:
+
+- IP address
+- DNS
+- localhost
+- network routing
+
+Most important learning:
+- DNS converts domain names into IP addresses

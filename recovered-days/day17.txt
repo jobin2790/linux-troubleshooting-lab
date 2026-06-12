@@ -1,0 +1,17 @@
+Day 17 Notes
+
+Commands Learned:
+- cat
+- head
+- tail
+- grep
+- wc
+
+Important Concepts:
+- Log files
+- Error detection
+- Log analysis
+- Troubleshooting
+
+Most Important Learning:
+Logs help identify and troubleshoot system and application issues.

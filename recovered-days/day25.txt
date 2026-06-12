@@ -1,0 +1,18 @@
+Day 25 Notes
+
+Commands Learned:
+- launchctl list
+- launchctl print
+- grep
+- echo $SHELL
+- env
+- echo $PATH
+
+Important Concepts:
+- Services
+- Daemons
+- Environment Variables
+- Startup Processes
+
+Most Important Learning:
+Services run in the background and environment variables help programs locate files and commands.

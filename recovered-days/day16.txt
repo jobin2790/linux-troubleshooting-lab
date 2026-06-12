@@ -1,0 +1,22 @@
+Day 16 Notes
+
+Commands Learned:
+- netstat -an
+- lsof -i -P
+- hostname
+- ping
+
+Important Concepts:
+- Ports
+- TCP Connections
+- Listening Services
+- Network Communication
+
+Common Ports:
+- 22 SSH
+- 80 HTTP
+- 443 HTTPS
+- 53 DNS
+
+Most Important Learning:
+Applications communicate through ports. A port identifies a specific service running on a computer.

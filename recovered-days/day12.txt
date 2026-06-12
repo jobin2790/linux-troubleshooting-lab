@@ -1,0 +1,17 @@
+Day 12 Notes
+
+Commands Learned:
+- chmod +x
+- ./
+- read
+- echo
+
+Important Concepts:
+- Bash scripting
+- shebang
+- variables
+- conditions
+- user input
+
+Most important learning:
+Linux scripts help automate repetitive tasks.

@@ -1,0 +1,22 @@
+Commands Learned :
+
+- jobs
+- fg
+- log show
+- uptime
+- whoami
+- id
+- echo
+- history
+
+
+Important Concepts:
+
+- background jobs 
+- logs
+- environment variables
+- command history
+- troubleshooting
+
+Most important learning :
+Logs help engineers troubleshoot Linux systems.

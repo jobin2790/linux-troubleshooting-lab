@@ -1,0 +1,19 @@
+Day 10 Notes
+
+Commands Learned:
+- find
+- grep
+- wc
+- head
+- tail
+- sort
+- clear
+
+Important Concepts:
+- file searching
+- text filtering
+- pipes
+- log monitoring
+
+Most important learning:
+grep helps search text inside files.

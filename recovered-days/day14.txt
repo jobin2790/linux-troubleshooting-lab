@@ -1,0 +1,21 @@
+Day 14 Notes
+
+Commands learned:
+- uname -a
+- uptime
+- who
+- history
+- clear
+- kill
+- ps aux
+- grep
+
+Important concepts:
+- system monitoring
+- active users
+- processes
+- killing processes
+- system information
+
+Most important learning:
+Linux lets us monitor and control system activity directly from terminal.

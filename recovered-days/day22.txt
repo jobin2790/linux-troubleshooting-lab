@@ -1,0 +1,18 @@
+Day 22 Notes
+
+Commands Learned:
+- brew --version
+- which brew
+- brew search
+- brew info
+- brew list
+- brew outdated
+
+Important Concepts:
+- Package Manager
+- Homebrew
+- Software Installation
+- Package Updates
+
+Most Important Learning:
+Package managers automate software installation, updates, and removal.

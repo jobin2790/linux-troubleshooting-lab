@@ -1,0 +1,19 @@
+Day 19 Notes
+
+Commands Learned:
+- top
+- ps aux
+- vm_stat
+- df -h
+- du -sh
+- kill
+
+Important Concepts:
+- CPU Usage
+- Memory Usage
+- Disk Usage
+- Process Monitoring
+- Resource Consumption
+
+Most Important Learning:
+System resources must be monitored regularly to identify performance issues.

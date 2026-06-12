@@ -1,0 +1,17 @@
+Day 23 Notes
+
+Commands Learned:
+- tar -cvf
+- tar -xvf
+- tar -czvf
+- tar -tvf
+- ls -lh
+
+Important Concepts:
+- Archives
+- Compression
+- Backups
+- File Packaging
+
+Most Important Learning:
+tar combines multiple files into a single archive and compression reduces storage space.

@@ -1,0 +1,26 @@
+Day 15 Notes
+
+Commands Learned:
+
+- hostname
+- ifconfig
+- ipconfig getifaddr en0
+- ping
+- nslookup
+
+
+
+Important  Concepts:
+- IP Address
+- DNS
+- Hostname
+- Network Interface
+- Connectivity Testing
+
+
+
+
+Most Important Learning:
+DNS converts domain names into IP
+addresses so computers can communicate.
+

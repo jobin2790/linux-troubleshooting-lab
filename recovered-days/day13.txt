@@ -1,0 +1,23 @@
+Day 13 Notes
+
+Commands learned:
+
+- chmod
+- ls -l
+- cat
+- nano
+
+Important learnings:
+
+- Linux file permissions control access to files and directories.
+- chmod is used to modify permissions.
+- ls -l displays file permissions and ownership.
+- Scripts require execute permission to run.
+- File permissions improve system security.
+
+Mistakes:
+
+- Forgot to add execute permission to scripts.
+- Used incorrect permission values.
+- Confused read, write, and execute permissions.
+- Tried to execute files without proper permissions.

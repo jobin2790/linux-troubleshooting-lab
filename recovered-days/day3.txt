@@ -1,0 +1,10 @@
+day 3
+
+Today I Learned:
+- hidden files
+- command history
+- file viewing
+- nano editing 
+
+linux feels more understandable now
+

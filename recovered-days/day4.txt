@@ -1,0 +1,19 @@
+Day 4 Notes 
+ 
+Commands learned :
+- ls -l
+- whoami
+- chmod
+- sudo
+- ps
+- top
+- yes
+
+Important concepts:
+- Linux permission
+- execute permission
+- root/admin access
+- running processes
+
+Most important learning:;
+- Control + C stops running process

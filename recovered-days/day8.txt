@@ -1,0 +1,22 @@
+Day 8 Notes
+
+Commands Learned:
+- ps
+- ps aux
+- top
+- grep
+- kill
+- kill -9
+- df -h
+- du -sh
+
+Important Concepts:
+- processes
+- PID
+- CPU usage
+- RAM usage
+- disk usage
+- piping
+
+Most important learning:
+Every running app is a process with a PID.

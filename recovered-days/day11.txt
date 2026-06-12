@@ -1,0 +1,21 @@
+Day 11 Notes
+
+Commands Learned:
+- whoami
+- id
+- chmod
+- df
+- du
+- brew search
+- brew install
+- brew uninstall
+
+Important Concepts:
+- Linux users
+- groups
+- permissions
+- package management
+- executable files
+
+Most important learning:
+chmod controls file permissions.

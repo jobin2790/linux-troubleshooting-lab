@@ -1,0 +1,9 @@
+Day 1
+Learned:
+- pwd
+- ls
+- mkdir
+- cd
+- touch
+
+Linux feels confusing but interesting.

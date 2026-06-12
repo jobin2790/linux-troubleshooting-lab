@@ -1,0 +1,16 @@
+ 1150  ping -c 4 google.com
+ 1151  nslookup google.com
+ 1152  curl ifconfig.me
+ 1153  netstat -an | head
+ 1154  lsof -i | head
+ 1155  hostname
+ 1156  netstat -rn | head
+ 1157  nano day66.txt
+ 1158  cat day66.txt
+ 1159  git add .
+ 1160  git commit -m "Day 66 Networking Basics"
+ 1161  git push
+ 1162  history
+ 1163  cd ~/Desktop/linux-troubleshooting-lab\nls
+ 1164  find ~/Desktop -type d -name "day1"
+ 1165  find ~ -type d -name "day1" 2>/dev/null

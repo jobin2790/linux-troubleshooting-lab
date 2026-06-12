@@ -1,0 +1,17 @@
+Day 18 Notes
+
+Commands Learned:
+- whoami
+- id
+- ls -l
+- chmod
+
+Important Concepts:
+- Users
+- Groups
+- File Permissions
+- Permission Numbers
+
+Most Important Learning:
+Linux permissions control who can read, write, and execute files.
+

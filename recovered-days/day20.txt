@@ -1,0 +1,19 @@
+Day 20 Notes
+
+Commands Learned:
+- sleep
+- jobs
+- ps aux
+- kill
+- history
+- which
+
+Important Concepts:
+- Background Jobs
+- Process Management
+- Troubleshooting
+- Command Locations
+- System Diagnostics
+
+Most Important Learning:
+Many Linux tasks run in the background and can be monitored or stopped when needed.
