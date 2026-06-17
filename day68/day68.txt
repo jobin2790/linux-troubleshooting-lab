@@ -1,0 +1,29 @@
+Day 68 Notes
+
+Commands Learned:
+- ls -l
+- whoami
+- id
+
+Important Concepts:
+- File Owner
+- Group Owner
+- Ownership
+
+Example:
+-rw-r--r--  1 jobin  staff  0 Jun 17 ownership.txt
+
+Owner = jobin
+Group = staff
+
+Most Important Learning:
+Every file in Linux has an owner and a group. Ownership controls who can access and modify files.
+
+
+Ownership Verification:
+
+fileA.txt -> Owner: jobin, Group: staff
+fileB.txt -> Owner: jobin, Group: staff
+
+Observation:
+New files are automatically owned by the user who creates them.
