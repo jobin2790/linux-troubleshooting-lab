@@ -1,0 +1,23 @@
+Day 67 Notes
+
+Commands Learned:
+•⁠  ⁠whoami
+•⁠  ⁠id
+•⁠  ⁠groups
+•⁠  ⁠chmod
+•⁠  ⁠ls -l
+•⁠  ⁠pwd
+
+Important Concepts:
+•⁠  ⁠User Identity
+•⁠  ⁠Groups
+•⁠  ⁠Ownership
+•⁠  ⁠Permissions
+
+Permission Examples:
+600 = rw-------
+644 = rw-r--r--
+000 = ----------
+
+Most Important Learning:
+Linux controls access using ownership and permissions. Permission issues are common troubleshooting tasks for Cloud Support Engineers.
