@@ -1,0 +1,16 @@
+Day 70 Notes
+
+Commands Learned:
+- head
+- tail
+- grep
+- less
+
+Concepts Learned:
+- Log Files
+- System Logs
+- Searching Logs
+- Reading Large Files
+
+Observation:
+Cloud Support Engineers analyze logs to troubleshoot server, application, and network issues.
