@@ -1,0 +1,19 @@
+Day 69 Notes
+
+Commands Learned:
+- which
+- git --version
+- python3 --version
+- ssh -V
+- echo $PATH
+- echo $HOME
+- echo $SHELL
+
+Concepts Learned:
+- Software Verification
+- Binary Locations
+- Environment Variables
+- PATH Variable
+
+Observation:
+Cloud Support Engineers verify installed software, versions, and environment variables while troubleshooting systems.
