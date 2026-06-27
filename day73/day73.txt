@@ -1,0 +1,14 @@
+Day 73 – File Permissions & Ownership
+
+Commands Practiced:
+- ls -l
+- chmod
+- whoami
+- id
+
+Topics Learned:
+- Viewed file permissions using ls -l.
+- Changed permissions using chmod.
+- Made a script executable.
+- Set different permissions for files.
+- Viewed current user and group information.
