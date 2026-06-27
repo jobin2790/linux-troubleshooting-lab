@@ -1,0 +1,16 @@
+Day 71 - Disk Management & Filesystem Administration
+
+Commands Practiced:
+- df -h
+- du -sh .
+- du -sh ~
+- mount
+- diskutil
+- diskutil info /
+
+What I Learned:
+- Checked disk usage using df -h.
+- Checked directory size using du.
+- Viewed mounted filesystems using mount.
+- Viewed detailed disk information using diskutil info /.
+- Learned that macOS uses the APFS filesystem.
