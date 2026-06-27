@@ -1,0 +1,15 @@
+Day 72 – File Search & Log Analysis
+
+Commands Practiced:
+- cat
+- grep
+- wc
+- pwd
+- find
+
+Topics Learned:
+- Displayed file contents using cat.
+- Searched for text using grep.
+- Counted lines, words, and characters using wc.
+- Found files using find.
+- Performed basic log analysis.
