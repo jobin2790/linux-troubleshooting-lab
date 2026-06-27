@@ -1,0 +1,19 @@
+Day 74 – Process Management & System Monitoring
+
+Commands Practiced:
+- jobs
+- ps
+- ps -ef
+- top
+- grep
+- kill
+- uptime
+- vm_stat
+
+Topics Learned:
+- Listed running processes.
+- Monitored CPU usage.
+- Found a process using grep.
+- Terminated a process using kill.
+- Checked system uptime.
+- Viewed memory statistics.
