@@ -1,0 +1,36 @@
+# Day 76 - Advanced File Search and Text Processing
+
+## Objective
+Practice searching for files and reading log files using Linux commands commonly used by Cloud Support Engineers.
+
+## Commands Practiced
+
+ls -l
+find . -name "*.log"
+find . -name "*.txt"
+find . -name "*.conf"
+find . -type f
+find . -type d
+grep "ERROR" error.log
+grep "Linux" notes.txt
+cat app.log
+cat error.log
+cat server.log
+wc -l *.log
+head -n 1 app.log
+tail -n 1 error.log
+sort users.txt
+
+## What I Learned
+
+- Search files by name and extension.
+- Search for text inside files using grep.
+- View complete file contents using cat.
+- Display the beginning and end of files with head and tail.
+- Count lines using wc.
+- Sort file contents using sort.
+- Understand how Linux log files are searched during troubleshooting.
+
+## Outcome
+
+Successfully practiced file searching and text processing commands used in Linux administration and Cloud Support environments.
