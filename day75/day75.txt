@@ -1,0 +1,22 @@
+Day 75 - User and Group Management in Docker
+
+Commands Practiced:
+- useradd -m clouduser
+- passwd clouduser
+- id clouduser
+- groupadd cloudteam
+- usermod -aG cloudteam clouduser
+- groups clouduser
+- su - clouduser
+- whoami
+- pwd
+- touch
+- chmod
+- chgrp
+- chown
+- cp
+- mv
+- rm
+
+Outcome:
+Successfully created a new user, created a group, added the user to the group, switched users, changed ownership and permissions, and practiced file management inside a Docker Ubuntu container.
