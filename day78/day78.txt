@@ -1,0 +1,58 @@
+Day 78 - Bash Variables and User Input
+
+Objective:
+Learn how to use variables, user input, and command substitution in Bash scripting.
+
+Environment:
+Docker Ubuntu Linux Container
+
+Tasks Completed:
+
+1. Created a new Bash script named user_info.sh.
+
+2. Used the read command to accept user input.
+
+3. Created variables to store:
+   - User name
+   - Target job role
+
+4. Used command substitution to store command output:
+   current_user=$(whoami)
+   current_date=$(date)
+
+5. Accessed variable values using:
+   $name
+   $role
+   $current_user
+   $current_date
+
+6. Added execute permission to the Bash script:
+   chmod +x user_info.sh
+
+7. Executed the script:
+   ./user_info.sh
+
+8. Verified the script successfully displayed:
+   - Name
+   - Target role
+   - Current Linux user
+   - Current date
+
+Commands Practiced:
+mkdir
+cd
+nano
+chmod
+read
+whoami
+date
+
+Concepts Learned:
+- Bash variables
+- User input using read
+- Variable expansion
+- Command substitution
+- Executable Bash scripts
+
+Result:
+Successfully created and executed an interactive Bash script that accepts user input and displays system information.
