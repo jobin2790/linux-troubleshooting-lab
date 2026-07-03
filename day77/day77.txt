@@ -1,0 +1,39 @@
+Day 77 - Bash Scripting Basics
+
+Objective:
+Learn how to create and execute a basic Bash system monitoring script.
+
+Environment:
+Ubuntu Linux Docker Container
+
+Tasks Completed:
+- Created a Bash script named system_check.sh
+- Used #!/bin/bash shebang
+- Displayed current user using whoami
+- Displayed hostname
+- Checked current working directory using pwd
+- Checked disk usage using df -h
+- Checked memory information using free -h
+- Viewed running processes using ps aux
+- Made the script executable using chmod +x
+- Executed the script using ./system_check.sh
+
+Commands Practiced:
+mkdir
+cd
+nano
+ls -l
+chmod +x
+whoami
+hostname
+pwd
+df -h
+free -h
+ps aux
+./system_check.sh
+
+Key Learning:
+Bash scripts can combine multiple Linux commands into one executable file to automate repetitive system administration and monitoring tasks.
+
+Status:
+Day 77 Completed Successfully
