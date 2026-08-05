@@ -1,4 +1,4 @@
-#j Day 96 – Linux Process and Init System
+ Day 96 – Linux Process and Init System
 
 ## Objective
 Learn Linux process management, identify running processes, manage background jobs, and understand the init system.
@@ -40,17 +40,16 @@ ps aux
 
 Successfully practiced Linux process management commands and understood the differences between Linux and macOS process tools.
 
-
 ## Screenshots
 
 ### Installing pstree and monitoring processes
-![Screenshot 1](screenshots/Screenshot%202026-08-04%20at%206.28.59%20PM.png)
+![Screenshot 1](screenshots/screenshot1.png)
 
 ### Docker container and process analysis
-![Screenshot 2](screenshots/Screenshot%202026-08-04%20at%206.29.05%20PM.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 ### PID 1 information
-![Screenshot 3](screenshots/Screenshot%202026-08-04%20at%206.29.15%20PM.png)
+![Screenshot 3](screenshots/screenshot3.png)
 
 ### Process monitoring
-![Screenshot 4](screenshots/Screenshot%202026-08-04%20at%206.29.22%20PM.png)
+![Screenshot 4](screenshots/screenshot4.png)
