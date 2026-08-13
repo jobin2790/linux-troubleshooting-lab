@@ -1,0 +1,11 @@
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "8080:80"
+    depends_on:
+      - app
+
+  app:
+    image: busybox:latest
+    command: sh -c "while true; do echo 'Day 100 app is running'; sleep 10; done"
