@@ -1,0 +1,12 @@
+services:
+  web:
+    build: .
+    container_name: day113-web
+    ports:
+      - "5001:5000"
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine
+    container_name: day113-redis
